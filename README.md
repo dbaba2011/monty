@@ -84,5 +84,5 @@ The work is still in progress, and a lot of things like aliases and piping, redi
 
 ## Authors
 
-* [**Sertsedengle Shewandagn**](https://github.com/MuhBashir)
+* [INUWA DANAZIMI BABA](https://github.com/dbaba2011)
 
